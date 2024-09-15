@@ -7,6 +7,9 @@ token.ini
 # Ignore comandos.txt file.
 comandos.txt
 
+# Ignore mm.spec file.
+mm.spec
+
 # ignore .venv/ directory.
 .venv/
 
@@ -15,7 +18,6 @@ comandos.txt
 
 # Ignore build/ directory.
 build/
-
 
 
 
