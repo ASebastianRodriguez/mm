@@ -1,4 +1,7 @@
-# Ayuda
+# PROGRAMA PARASIMPLE CARGAR FECHAS DE TOMA DE MEDICAMENTOS EN UNA HOJA DE CÁLCULO 
+# Y ENVIAR MENSAJES DE RECORDATORIO A UN CELULAR UTILIZANDO TELEGRAM Y A UNA PC
+
+## Ayuda
 
 Para preparar los archivos necesarios, siga estos pasos:
 
@@ -31,4 +34,4 @@ Para preparar los archivos necesarios, siga estos pasos:
     Dentro del archivo `cronograma_medicamentos.xlsx`, asegúrese de agregar las fechas correspondientes a la toma o no de los medicamentos. Esto es crucial para el correcto seguimiento y monitoreo.
 
 
-Si tiene alguna duda, consulte con el administrador del sistema.
+Si tiene alguna duda, consulte con el administrador del sistema ;-)
